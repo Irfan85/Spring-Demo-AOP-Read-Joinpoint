@@ -1,0 +1,5 @@
+package com.example.aopdemo.aspect;
+
+public class MyAopExpressions {
+
+}
